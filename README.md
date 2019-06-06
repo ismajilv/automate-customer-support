@@ -25,4 +25,6 @@ and 2nd GET request results in
 ```bash
 user_id:123:workder_id:2:request_number:1 
 ```
-As it can be seen, same user id is proccessed by different instance of server. As thread is equal to 2, a single instance can process 2 different proccess at a same time. And as a rule of thumb, processes variable is equal to number of CPU core that is 4. But as it is mentioned in documentation there is no simple math to find magic number and different values should be tried in order to get optimal value.  
+As it can be seen, same user id is proccessed by different instance of server. As thread is equal to 2, a single instance can process 2 different proccess at a same time. And as a rule of thumb, processes variable is equal to number of CPU core that is 4. But as it is mentioned in documentation there is no simple math to find magic number and different values should be tried in order to get optimal value.  <br />
+This is html format of benchmark of API: <br/>
+(API BENCHMARK)[./benchmark/benchmarks.html]
