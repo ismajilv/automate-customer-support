@@ -1,13 +1,19 @@
-# Sample task starter
+# automate-customer-support
+Eliminate classifier bottleneck and make external API robust to unpredictable time-outs
 
-Here you'll find a skeleton project for a simple Flask API.
-To include private configuration, rename `config/private_RENAME_THIS.py` to `private.py`. Keep secret credentials there.
+Hi!
 
-Build the docker image:  
-`sudo docker build -t sampletask .`
+So I did about 1 hour research and planning on how to approach this problem and found great article [flask nginx article](https://pythonise.com/feed/flask/building-a-flask-app-with-docker-compose) and decided to merge what I know with what I can learn from this article. I am going to use nginx as HTTP webserver and uWSGI as application server. Simply, nginx accepts parallel requests and communicate via a unix socket with uWSGI and uWSGI invokes a Flask callable object. Project Layout:
 
-Run the docker image:
-`sudo docker run --net="host" sampletask`
-
-
-The "Hello world!" can now be observed on localhost at port 5000. 
+```bash
+├──flask
+   ├──api (folder)
+   ├──api.log
+   ├──api.ini (uwsgi conf)
+   ├──Dockerfile
+   ├──logging.conf
+   ├──main.py
+├──nginx
+   ├──nginx.conf
+   ├──Dockerfile
+```

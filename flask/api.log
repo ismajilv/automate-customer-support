@@ -1,0 +1,27 @@
+INFO 2019-06-06 20:36:58,569 _log         _internal.py  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 20:36:58,570 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 20:36:58,817 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 20:36:58,817 _log         _internal.py  * Debugger PIN: 153-652-983
+INFO 2019-06-06 20:37:07,699 index        views.py index loaded
+INFO 2019-06-06 20:37:07,700 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 20:37:07] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 20:38:18,304 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 20:38:18,305 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 20:38:18,604 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 20:38:18,604 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 20:38:20,091 index        views.py index loaded
+INFO 2019-06-06 20:38:20,092 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 20:38:20] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 20:38:20,258 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 20:38:20] "GET /favicon.ico HTTP/1.1" 404 -
+INFO 2019-06-06 20:40:42,502 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 20:40:42,503 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 20:40:42,787 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 20:40:42,788 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 20:41:04,330 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 20:41:04,331 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 20:41:04,622 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 20:41:04,623 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 20:41:06,314 index        views.py index loaded
+INFO 2019-06-06 20:41:06,316 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 20:41:06] "GET / HTTP/1.1" 200 -
+WARNING 2019-06-06 21:11:04,236 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:11:04,238 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:11:15,015 index        views.py index loaded
+INFO 2019-06-06 21:11:15,016 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:11:15] "GET / HTTP/1.1" 200 -
