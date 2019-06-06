@@ -5,6 +5,8 @@ from flask import Flask
 import logging
 from logging.config import fileConfig
 
+from api.utils import request
+
 fileConfig('logging.conf')
 log = logging.getLogger(__name__)
 

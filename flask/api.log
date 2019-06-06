@@ -25,3 +25,263 @@ WARNING 2019-06-06 21:11:04,236 _log         _internal.py  * Debugger is active!
 INFO 2019-06-06 21:11:04,238 _log         _internal.py  * Debugger PIN: 187-039-315
 INFO 2019-06-06 21:11:15,015 index        views.py index loaded
 INFO 2019-06-06 21:11:15,016 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:11:15] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 21:42:56,185 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 21:42:56,188 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:42:56,453 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:42:56,453 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:43:03,227 index        views.py index loaded
+INFO 2019-06-06 21:43:03,228 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:43:03] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 21:43:13,332 index        views.py index loaded
+INFO 2019-06-06 21:43:13,333 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:43:13] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 21:44:51,287 index        views.py index loaded
+INFO 2019-06-06 21:44:51,288 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:44:51] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 21:45:43,841 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:45:43,919 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:45:44,198 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:45:44,201 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:46:04,515 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:46:04,624 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:46:04,945 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:46:04,946 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:46:11,000 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:46:10] "GET /123 HTTP/1.1" 405 -
+INFO 2019-06-06 21:46:14,076 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:46:14,152 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:46:14,506 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:46:14,508 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:46:25,477 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:46:25] "POST /123 HTTP/1.1" 500 -
+INFO 2019-06-06 21:47:02,722 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:47:02] "POST /123 HTTP/1.1" 500 -
+INFO 2019-06-06 21:47:34,588 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:47:34,647 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:47:35,054 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:47:35,055 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:47:43,190 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:47:43,285 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:47:43,665 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:47:43,667 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:47:45,859 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:47:45] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 21:48:19,181 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:48:19,225 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:48:19,514 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:48:19,516 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:49:00,026 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:49:00,078 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:49:00,465 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:49:00,465 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:49:04,055 index        views.py index loaded
+INFO 2019-06-06 21:49:04,056 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:49:04] "GET /123 HTTP/1.1" 200 -
+INFO 2019-06-06 21:50:26,737 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 21:50:26,792 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:50:27,134 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:50:27,135 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:50:29,508 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:50:29] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 21:56:38,298 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 21:56:38,300 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:56:38,564 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:56:38,566 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:56:41,465 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:56:41] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 21:56:41,541 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:56:41] "GET /123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 21:56:41,544 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:56:41] "GET /123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 21:56:41,554 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:56:41] "GET /123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 21:56:41,728 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:56:41] "GET /123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:22,122 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 21:59:22,124 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:59:22,399 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:59:22,400 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:59:24,037 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:24] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 21:59:24,136 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:24] "GET /123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:24,137 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:24] "GET /123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:24,149 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:24] "GET /123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:24,298 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:24] "GET /123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:44,864 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 21:59:44,865 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 21:59:45,147 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 21:59:45,147 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 21:59:48,457 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:48] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 21:59:48,618 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:48] "GET /123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:48,618 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:48] "GET /123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:48,619 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:48] "GET /123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 21:59:48,736 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 21:59:48] "GET /123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:00:13,659 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/utils.py', reloading
+INFO 2019-06-06 22:00:13,742 _log         _internal.py  * Restarting with stat
+INFO 2019-06-06 22:02:43,181 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:02:43,182 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:02:43,447 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:02:43,448 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:02:47,277 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:47] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 22:02:47,374 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:47] "GET /123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:02:47,382 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:47] "GET /123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:02:47,382 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:47] "GET /123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:02:47,531 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:47] "GET /123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:02:54,581 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/utils.py', reloading
+INFO 2019-06-06 22:02:54,687 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:02:54,979 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:02:54,980 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:02:56,014 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/utils.py', reloading
+INFO 2019-06-06 22:02:56,082 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:02:56,404 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:02:56,405 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:02:59,195 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:59] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 22:02:59,313 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:59] "GET /123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:02:59,318 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:59] "GET /123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:02:59,321 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:59] "GET /123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:02:59,457 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:02:59] "GET /123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:07:45,431 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:07:45,432 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:07:45,684 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:07:45,685 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:07:49,535 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:07:49] "GET /123 HTTP/1.1" 500 -
+INFO 2019-06-06 22:07:49,633 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:07:49] "GET /123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:07:49,636 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:07:49] "GET /123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:07:49,636 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:07:49] "GET /123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:07:49,753 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:07:49] "GET /123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:10:42,575 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:10:42,576 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:10:42,860 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:10:42,860 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:10:48,556 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:10:48] "GET /123/ HTTP/1.1" 500 -
+INFO 2019-06-06 22:10:48,652 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:10:48] "GET /123/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:10:48,657 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:10:48] "GET /123/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:10:48,657 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:10:48] "GET /123/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:10:48,782 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:10:48] "GET /123/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:16:36,816 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:16:36,817 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:16:37,078 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:16:37,079 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:16:39,448 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:16:39] "GET /123/ HTTP/1.1" 500 -
+INFO 2019-06-06 22:16:39,590 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:16:39] "GET /123/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:16:39,593 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:16:39] "GET /123/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:16:39,599 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:16:39] "GET /123/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:16:39,709 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:16:39] "GET /123/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:17:50,387 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:17:50,388 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:17:50,729 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:17:50,729 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:17:52,547 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:17:52] "GET /123/ HTTP/1.1" 500 -
+INFO 2019-06-06 22:17:52,665 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:17:52] "GET /123/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:17:52,668 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:17:52] "GET /123/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:17:52,671 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:17:52] "GET /123/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:17:52,810 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:17:52] "GET /123/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:18:22,265 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:18:22,548 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:18:22,551 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:18:24,210 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:18:24,211 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:18:24,481 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:18:24,483 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:18:26,327 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:18:26] "GET /123/ HTTP/1.1" 500 -
+INFO 2019-06-06 22:18:26,441 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:18:26] "GET /123/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:18:26,447 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:18:26] "GET /123/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:18:26,450 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:18:26] "GET /123/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:18:26,539 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:18:26] "GET /123/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:18:58,046 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:18:58,046 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:18:58,313 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:18:58,314 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:19:07,975 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:19:07] "GET /123/ HTTP/1.1" 500 -
+INFO 2019-06-06 22:19:08,114 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:19:08] "GET /123/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:19:08,116 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:19:08] "GET /123/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:19:08,123 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:19:08] "GET /123/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:19:08,245 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:19:08] "GET /123/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:29:51,699 _log         _internal.py  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:29:51,700 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:29:51,945 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:29:51,946 _log         _internal.py  * Debugger PIN: 153-652-983
+INFO 2019-06-06 22:29:56,721 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:29:56] "GET / HTTP/1.1" 404 -
+INFO 2019-06-06 22:30:08,182 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:30:08] "GET / HTTP/1.1" 404 -
+INFO 2019-06-06 22:30:25,247 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:30:25] "GET / HTTP/1.1" 404 -
+INFO 2019-06-06 22:31:02,670 _log         _internal.py  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:31:02,671 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:31:02,906 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:31:02,907 _log         _internal.py  * Debugger PIN: 153-652-983
+INFO 2019-06-06 22:31:06,521 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:31:06,521 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:31:06,806 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:31:06,807 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:31:08,576 index        views.py index loaded
+INFO 2019-06-06 22:31:08,576 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:31:08] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 22:31:51,133 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:31:51,134 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:31:51,448 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:31:51,449 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:31:53,285 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:31:53] "GET / HTTP/1.1" 500 -
+INFO 2019-06-06 22:31:53,379 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:31:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:31:53,384 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:31:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:31:53,385 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:31:53] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:31:53,567 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:31:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:04,510 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:32:04,511 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:32:04,785 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:32:04,786 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:32:06,390 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:06] "GET / HTTP/1.1" 500 -
+INFO 2019-06-06 22:32:06,544 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:06] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:06,546 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:06] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:06,555 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:06] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:06,662 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:45,772 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:32:45,773 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:32:46,046 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:32:46,046 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:32:50,114 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:50] "GET / HTTP/1.1" 500 -
+INFO 2019-06-06 22:32:50,226 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:50] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:50,231 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:50,234 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:32:50,364 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:32:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:08,533 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:33:08,534 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:33:08,810 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:33:08,811 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:33:10,913 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:10] "GET / HTTP/1.1" 500 -
+INFO 2019-06-06 22:33:11,050 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:11,054 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:11] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:11,058 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:11,203 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:19,707 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:33:19,708 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:33:20,010 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:33:20,011 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:33:21,372 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:21] "GET / HTTP/1.1" 500 -
+INFO 2019-06-06 22:33:21,496 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:21,508 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:21] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:21,509 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:21] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:33:21,648 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:33:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:36:25,126 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:36:25,127 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:36:25,428 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:36:25,429 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:36:53,029 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:36:53,030 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:36:53,319 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:36:53,320 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:36:57,217 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:36:57] "GET / HTTP/1.1" 500 -
+INFO 2019-06-06 22:36:57,364 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:36:57] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:36:57,365 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:36:57] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO 2019-06-06 22:36:57,376 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:36:57] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO 2019-06-06 22:36:57,499 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:36:57] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO 2019-06-06 22:37:12,578 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:37:12,583 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:37:12,915 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:37:12,916 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:37:16,173 index        views.py index loaded
+INFO 2019-06-06 22:37:16,176 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:37:16] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 22:37:19,037 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:37:19] "GET /123 HTTP/1.1" 404 -
+INFO 2019-06-06 22:37:26,432 index        views.py index loaded
+INFO 2019-06-06 22:37:26,434 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:37:26] "GET / HTTP/1.1" 200 -
+INFO 2019-06-06 22:37:27,573 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:37:27] "GET /123 HTTP/1.1" 404 -
+INFO 2019-06-06 22:37:38,301 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 22:37:38,370 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:37:38,667 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:37:38,670 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:37:43,753 _log         _internal.py  * Detected change in '/home/ismajilv/code/mindtitan/automate-customer-support/flask/api/views.py', reloading
+INFO 2019-06-06 22:37:43,821 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:37:44,175 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:37:44,176 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:37:46,621 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:37:46,622 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:37:46,915 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:37:46,915 _log         _internal.py  * Debugger PIN: 187-039-315
+INFO 2019-06-06 22:37:49,546 index        views.py index loaded
+INFO 2019-06-06 22:37:49,552 _log         _internal.py 127.0.0.1 - - [06/Jun/2019 22:37:49] "GET /123 HTTP/1.1" 200 -
+INFO 2019-06-06 22:37:58,229 _log         _internal.py  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO 2019-06-06 22:37:58,231 _log         _internal.py  * Restarting with stat
+WARNING 2019-06-06 22:37:58,541 _log         _internal.py  * Debugger is active!
+INFO 2019-06-06 22:37:58,542 _log         _internal.py  * Debugger PIN: 187-039-315

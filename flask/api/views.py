@@ -1,7 +1,9 @@
 
-from api import app, log
+from api import app, log, request
 
-@app.route('/')
-def index():
+
+@app.route('/<user_id>')
+def index(user_id):
+    response = request(user_id)
     log.info('index loaded')
-    return 'Hello World!'
+    return response
